@@ -1,6 +1,4 @@
-<h1 align="center">
-🌟OPLESK-CHALLENGES🌟
-</h1>
+# 👽 HACKS 👽
 <br/>
 
 📚 docs [comandos git 1](https://gist.github.com/dasdo/9ff71c5c0efa037441b6) | [comandos git 2](https://github.com/joshnh/Git-Commands/blob/master/READMEes.md) | [comandos git 3](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html) | [config cuenta](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez) 
@@ -11,20 +9,20 @@
 ```
 |Challenges | Details | 
 |----------|---------|
-| C-1      | Enviar un commit al repositorio remoto |
-| C-2      | Enviar un directorio vacio al repositorio remoto |
-| C-3      | Hacer merge en mi master local y luego con master remoto | 
-| C-4      | Extraer archivo de stage |
-| C-5      | Enviar una rama remota  |
-| C-6      | Clonando un repositorio remoto |
-| C-7      | Eliminar un archivo en el repositorio remoto | 
-| C-8      | Volver a un commit anterior                  |
+| H-1      | Enviar un commit al repositorio remoto |
+| H-2      | Enviar un directorio vacio al repositorio remoto |
+| H-3      | Hacer merge en mi master local y luego con master remoto | 
+| H-4      | Extraer archivo de stage |
+| H-5      | Enviar una rama remota  |
+| H-6      | Clonando un repositorio remoto |
+| H-7      | Eliminar un archivo en el repositorio remoto | 
+| H-8      | Volver a un commit anterior                  |
 
 <br/> 
 
-## ✔️ C-1 (ENVIAR UN COMMIT AL REPOSITORIO REMOTO)
+## ✔️ H-1 (ENVIAR UN COMMIT AL REPOSITORIO REMOTO)
 
-1. Crear un nuevo repositorio en github nombre: git_c-1
+1. Crear un nuevo repositorio en github nombre: git_h-1
 
 2. Crear un repositorio local
 ```
@@ -82,9 +80,9 @@ git push -u origin master
 
 ---
 
-## ✔️ C-2 (ENVIAR UN DIRECTORIO VACIO AL REPOSITORIO REMOTO)
+## ✔️ H-2 (ENVIAR UN DIRECTORIO VACIO AL REPOSITORIO REMOTO)
 
-1. Crear un nuevo repositorio en github nombre: git_c-2
+1. Crear un nuevo repositorio en github nombre: git_h-2
 
 2. Crear un repositorio local
 ```
@@ -161,10 +159,10 @@ git push -u origin master
 
 ---
 
-## ✔️ C-3 (HACER MERGE EN MI MASTER LOCAL Y LUEGO CON MASTER REMOTO)
+## ✔️ H-3 (HACER MERGE EN MI MASTER LOCAL Y LUEGO CON MASTER REMOTO)
 
 
-1. Crear un nuevo repositorio en github nombre: git_c-3
+1. Crear un nuevo repositorio en github nombre: git_h-3
 
 2. Crear un repositorio local
 ```
@@ -285,10 +283,10 @@ git branch
 ---
 
 
-## ✔️ C-4 (EXTRAER ARCHIVO DEL STAGE)
+## ✔️ H-4 (EXTRAER ARCHIVO DEL STAGE)
 
 
-1. Crear un nuevo repositorio en github nombre: git_c-4
+1. Crear un nuevo repositorio en github nombre: git_h-4
 
 2. Crear un repositorio local
 ```
@@ -397,10 +395,10 @@ git push -u origin master
 
 ---
 
-## ✔️ C-5 (ENVIAR UNA RAMA REMOTA)
+## ✔️ H-5 (ENVIAR UNA RAMA REMOTA)
 
 
-1. Crear un nuevo repositorio en github nombre: git_c-5
+1. Crear un nuevo repositorio en github nombre: git_h-5
 
 2. Crear un repositorio local
 ```
@@ -499,7 +497,7 @@ git branch -a
 
 ---
 
-## ✔️ C-6 (CLONAR UN REPOSITORIO REMOTO)
+## ✔️ H-6 (CLONAR UN REPOSITORIO REMOTO)
 
 1. Clonar es copiar un repositorio(proyecto) para tal fin, vamos a copiar un proyecto open source, 
    que es una libreria de utilidades creada en javascript llamada [Lodash](https://github.com/lodash/lodash)
@@ -507,9 +505,9 @@ git branch -a
    En el botón "code de color verde" das click y tomas la ruta del repositorio, sino acá lo tienes (https://github.com/lodash/lodash.git)
    una advertencia cuando copies la ruta del repo, verificar que este en la tab/pestaña https y no en el tab ssh
    
-2. Ve a tú local a crear una carpeta "llamada git_c_6"
+2. Ve a tú local a crear una carpeta "llamada git_h_6"
 
-3. Dentro del directorio "git_c_6" y desde la terminal de "Git Bash" aplicas lo siguiente
+3. Dentro del directorio "git_h_6" y desde la terminal de "Git Bash" aplicas lo siguiente
 ```
 git clone https://github.com/lodash/lodash.git
 ```
@@ -531,10 +529,10 @@ git branch -a
 
 ---
 
-## ✔️ C-7 (ELIMINAR UN ARCHIVO EN EL REPOSITORIO REMOTO)
+## ✔️ H-7 (ELIMINAR UN ARCHIVO EN EL REPOSITORIO REMOTO)
 
 
-1. Crear un nuevo repositorio en github nombre: git_c-7
+1. Crear un nuevo repositorio en github nombre: git_h-7
 
 2. Crear un repositorio local
 ```
@@ -573,10 +571,10 @@ git push
 ---
 
 
-## ✔️ C-8 (VOLVER A UN COMMIT ANTERIOR)
+## ✔️ H-8 (VOLVER A UN COMMIT ANTERIOR)
 
 
-1. Crear un nuevo repositorio en github nombre: git_c-8
+1. Crear un nuevo repositorio en github nombre: git_h-8
 
 2. Crear un repositorio local
 ```
