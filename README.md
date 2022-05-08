@@ -619,5 +619,5 @@ git commit -m "feat volvimos al commit anterior"
 8. Revisamos el proyecto para confirmar y podemos seguir creando cosas en nuestro proyecto.
 
 ---
-<h3 align="center">social oplesk</h3>
+<h3 align="center">SOCIAL OPLESK</h3>
 
