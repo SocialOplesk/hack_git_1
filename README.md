@@ -1,4 +1,4 @@
-# Social Oplesk
+# SOCIAL OPLESK
 ### 🏴‍☠️ HACKS 
 <br/>
 
