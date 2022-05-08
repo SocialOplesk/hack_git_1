@@ -8,7 +8,7 @@
 ```diff
 - NOTA HACER LAS PRÁCTICAS MEDIANTE LA CONSOLA DE GIT BASH  
 ```
-|Challenges | Details | 
+|Hacks | Details | 
 |----------|---------|
 | H-1      | Enviar un commit al repositorio remoto |
 | H-2      | Enviar un directorio vacio al repositorio remoto |
