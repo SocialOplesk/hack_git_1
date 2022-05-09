@@ -21,7 +21,7 @@
 
 <br/> 
 
-## ✔️ H-1 (ENVIAR UN COMMIT AL REPOSITORIO REMOTO)
+## 🏆 H-1 (ENVIAR UN COMMIT AL REPOSITORIO REMOTO)
 
 1. Crear un nuevo repositorio en github nombre: git_h-1
 
@@ -81,7 +81,7 @@ git push -u origin master
 
 ---
 
-## ✔️ H-2 (ENVIAR UN DIRECTORIO VACIO AL REPOSITORIO REMOTO)
+## 🏆 H-2 (ENVIAR UN DIRECTORIO VACIO AL REPOSITORIO REMOTO)
 
 1. Crear un nuevo repositorio en github nombre: git_h-2
 
@@ -160,7 +160,7 @@ git push -u origin master
 
 ---
 
-## ✔️ H-3 (HACER MERGE EN MI MASTER LOCAL Y LUEGO CON MASTER REMOTO)
+## 🏆 H-3 (HACER MERGE EN MI MASTER LOCAL Y LUEGO CON MASTER REMOTO)
 
 
 1. Crear un nuevo repositorio en github nombre: git_h-3
@@ -284,7 +284,7 @@ git branch
 ---
 
 
-## ✔️ H-4 (EXTRAER ARCHIVO DEL STAGE)
+## 🏆 H-4 (EXTRAER ARCHIVO DEL STAGE)
 
 
 1. Crear un nuevo repositorio en github nombre: git_h-4
@@ -396,7 +396,7 @@ git push -u origin master
 
 ---
 
-## ✔️ H-5 (ENVIAR UNA RAMA REMOTA)
+## 🏆 H-5 (ENVIAR UNA RAMA REMOTA)
 
 
 1. Crear un nuevo repositorio en github nombre: git_h-5
@@ -498,7 +498,7 @@ git branch -a
 
 ---
 
-## ✔️ H-6 (CLONAR UN REPOSITORIO REMOTO)
+## 🏆 H-6 (CLONAR UN REPOSITORIO REMOTO)
 
 1. Clonar es copiar un repositorio(proyecto) para tal fin, vamos a copiar un proyecto open source, 
    que es una libreria de utilidades creada en javascript llamada [Lodash](https://github.com/lodash/lodash)
@@ -530,7 +530,7 @@ git branch -a
 
 ---
 
-## ✔️ H-7 (ELIMINAR UN ARCHIVO EN EL REPOSITORIO REMOTO)
+## 🏆 H-7 (ELIMINAR UN ARCHIVO EN EL REPOSITORIO REMOTO)
 
 
 1. Crear un nuevo repositorio en github nombre: git_h-7
@@ -572,7 +572,7 @@ git push
 ---
 
 
-## ✔️ H-8 (VOLVER A UN COMMIT ANTERIOR)
+## 🏆 H-8 (VOLVER A UN COMMIT ANTERIOR)
 
 
 1. Crear un nuevo repositorio en github nombre: git_h-8
