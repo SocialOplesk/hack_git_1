@@ -602,7 +602,7 @@ git remote -v
 6. Ahora vamos a regresar del actual commit, al commit anterior, es decir del ultimo commit que tiene contiene los "5 archivos", al commit pasado que contiene
   solamente los "4 archivos" 
 ```diff
-git revert HEAD HEAD~1
+git revert HEAD~1
 
 + Otra alternativa al mismo resultado
 
