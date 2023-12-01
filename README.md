@@ -611,8 +611,7 @@ git remote -v
    * nota_4.txt  - commit -m "feat nota 4"
    * nota_5.txt  - commit -m "feat nota 5"
 
-6. Ahora vamos a regresar del actual commit, al commit anterior, es decir del ultimo commit que tiene contiene los "5 archivos", al commit pasado que contiene
-  solamente los "4 archivos" 
+6. Ahora vamos a regresar del actual commit, al commit anterior, al commit pasado, mediante git revert 
 ```diff
 git revert HEAD
 
