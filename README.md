@@ -72,9 +72,14 @@ git commit -m "feat: add lista_de_usuarios.txt"
 git log --oneline
 ```
 
-11. Hacemos push
+11. cambiar el nombre del ambiente (rama)
 ```
-git push -u origin master
+git branch -M main
+```
+
+12. Hacemos push
+```
+git push -u origin main
 ```
 
 12. Verificamos el repositorio remoto en github para ver el push enviado
@@ -151,12 +156,17 @@ git commit -m "feat: add directory usuarios"
 git log --oneline
 ```
 
-13. Hacer push
+13. Crear el ambiente main
 ```
-git push -u origin master
+git branch -M main
 ```
 
-14. Toca ir al repositorio remoto y ver la carpeta en nuestro repo
+13. Hacer push
+```
+git push -u origin main
+```
+
+15. Toca ir al repositorio remoto y ver la carpeta en nuestro repo
 
 <br/>
 
@@ -526,7 +536,7 @@ git branch -a
    observarás que son las mismas ramas listadas de la terminal, cuando se emitio la acción "git branch -a"
    Cuando clonas un proyecto, también clonas sus ramas remotas.
 
-
+7. Subir el proyecto clonado en un nuevo repositorio con el nombre de git_h-6
 <br/>
 
 
@@ -604,11 +614,11 @@ git remote -v
 6. Ahora vamos a regresar del actual commit, al commit anterior, es decir del ultimo commit que tiene contiene los "5 archivos", al commit pasado que contiene
   solamente los "4 archivos" 
 ```diff
-git revert HEAD~1
+git revert HEAD
 
 + Otra alternativa al mismo resultado
 
-git revet código_del_actual_commit  código_del_commit_pasado
+git revet código_del_commit_pasado
 ```
 
 7. Luego si existe un conflicto solo seleccionamos lo que necesitamos, teniendo ya todo listo, se continua con el revert 
