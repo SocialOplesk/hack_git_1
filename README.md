@@ -161,7 +161,7 @@ git log --oneline
 git branch -M main
 ```
 
-13. Hacer push
+14. Hacer push
 ```
 git push -u origin main
 ```
