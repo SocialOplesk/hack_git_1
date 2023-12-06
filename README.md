@@ -283,7 +283,7 @@ git branch
 21. Podemos dejar la rama "feature/agregarComidas", como un mecanismo de respaldo
     aunque sino lo deseamos también puedes eliminarla 
 ```
-git branch -D feature/agregarComidas.txt
+git branch -D feature/agregarComidas
 ```
 
 22. Exploramos las ramas
