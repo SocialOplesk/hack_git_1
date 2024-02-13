@@ -25,6 +25,8 @@
 
 ## 🏆 H-1 (ENVIAR UN COMMIT AL REPOSITORIO REMOTO)
 
+![](https://github.com/SocialOplesk/hack-git-1/blob/main/gifs/hack_git_1_clone_h1.gif)
+
 1. Crear un nuevo repositorio en github nombre: git_h_1
 
 2. Crear un repositorio local
@@ -42,6 +44,7 @@ git remote add origin (pegar_la_ruta_del_repositorio_local)
 git remote -v
 ``` 
 
+![](https://github.com/SocialOplesk/hack-git-1/blob/main/gifs/hack_git_1_process_h1.gif)
 5. Crear un archivo llamado lista_de_usuarios.txt
 ```
 touch lista_de_usuarios.txt
@@ -89,6 +92,8 @@ git push -u origin main
 ---
 
 ## 🏆 H-2 (ENVIAR UN DIRECTORIO VACIO AL REPOSITORIO REMOTO)
+
+![](https://github.com/SocialOplesk/hack-git-1/blob/main/gifs/hack_git_1_clone_h2.gif)
 
 1. Crear un nuevo repositorio en github nombre: git_h_2
 
