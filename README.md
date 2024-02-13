@@ -25,7 +25,7 @@
 
 ## 🏆 H-1 (ENVIAR UN COMMIT AL REPOSITORIO REMOTO)
 
-1. Crear un nuevo repositorio en github nombre: git_h-1
+1. Crear un nuevo repositorio en github nombre: git_h_1
 
 2. Crear un repositorio local
 ```
@@ -90,7 +90,7 @@ git push -u origin main
 
 ## 🏆 H-2 (ENVIAR UN DIRECTORIO VACIO AL REPOSITORIO REMOTO)
 
-1. Crear un nuevo repositorio en github nombre: git_h-2
+1. Crear un nuevo repositorio en github nombre: git_h_2
 
 2. Crear un repositorio local
 ```
@@ -175,7 +175,7 @@ git push -u origin main
 ## 🏆 H-3 (HACER MERGE EN MI MASTER LOCAL Y LUEGO CON MASTER REMOTO)
 
 
-1. Crear un nuevo repositorio en github nombre: git_h-3
+1. Crear un nuevo repositorio en github nombre: git_h_3
 
 2. Crear un repositorio local
 ```
@@ -299,7 +299,7 @@ git branch
 ## 🏆 H-4 (EXTRAER ARCHIVO DEL STAGE)
 
 
-1. Crear un nuevo repositorio en github nombre: git_h-4
+1. Crear un nuevo repositorio en github nombre: git_h_4
 
 2. Crear un repositorio local
 ```
@@ -411,7 +411,7 @@ git push -u origin master
 ## 🏆 H-5 (ENVIAR UNA RAMA REMOTA)
 
 
-1. Crear un nuevo repositorio en github nombre: git_h-5
+1. Crear un nuevo repositorio en github nombre: git_h_5
 
 2. Crear un repositorio local
 ```
@@ -545,7 +545,7 @@ git branch -a
 ## 🏆 H-7 (ELIMINAR UN ARCHIVO EN EL REPOSITORIO REMOTO)
 
 
-1. Crear un nuevo repositorio en github nombre: git_h-7
+1. Crear un nuevo repositorio en github nombre: git_h_7
 
 2. Crear un repositorio local
 ```
@@ -587,7 +587,7 @@ git push
 ## 🏆 H-8 (VOLVER A UN COMMIT ANTERIOR)
 
 
-1. Crear un nuevo repositorio en github nombre: git_h-8
+1. Crear un nuevo repositorio en github nombre: git_h_8
 
 2. Crear un repositorio local
 ```
