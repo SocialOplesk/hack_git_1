@@ -552,7 +552,7 @@ git branch -a
 git init
 ```
 
-10. Registrar el repo remoto git_h_6 en el repo local,
+10. Registrar el repo remoto git_h_6 en el repo local
 ```
 git remote add origin mas_la_ruta_del_repo_remoto_git_h_6
 ```
