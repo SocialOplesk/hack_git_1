@@ -543,14 +543,22 @@ git branch -a
 
 7. Crear un nuevo repositorio en github con el nombre de git_h_6
 
+
 8. Eliminar el archivo oculto .git en el repositorio local 
+
  
-9. Ejecutar git init en el repo local
+9. Crear un nuevo repositorio local
+```
+git init
+```
 
 10. Registrar el repo remoto git_h_6 en el repo local,
-    mediante:  git remote add origin mas_la_ruta_del_repo_remoto
-   
-11. Subir el proyecto clonado en el nuevo repositorio git_h_6
+```
+git remote add origin mas_la_ruta_del_repo_remoto_git_h_6
+```
+
+
+11. Subir el proyecto clonado en el nuevo repositorio remoto git_h_6
 <br/>
 
 
