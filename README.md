@@ -541,7 +541,16 @@ git branch -a
    observarás que son las mismas ramas listadas de la terminal, cuando se emitio la acción "git branch -a"
    Cuando clonas un proyecto, también clonas sus ramas remotas.
 
-7. Subir el proyecto clonado en un nuevo repositorio con el nombre de git_h-6
+7. Crear un nuevo repositorio en github con el nombre de git_h_6
+
+8. Eliminar el archivo oculto .git en el repositorio local 
+ 
+9. Ejecutar git init en el repo local
+
+10. Registrar el repo remoto git_h_6 en el repo local,
+    mediante:  git remote add origin mas_la_ruta_del_repo_remoto
+   
+11. Subir el proyecto clonado en el nuevo repositorio git_h_6
 <br/>
 
 
