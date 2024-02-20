@@ -647,6 +647,8 @@ git revet código_del_commit_pasado
 git revert --continue
 
 git commit -m "feat volvimos al commit anterior"
+
+para salir del editor :wq + enter
 ```
 
 8. Revisamos el proyecto para confirmar y podemos seguir creando cosas en nuestro proyecto.
